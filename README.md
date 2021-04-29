@@ -1,4 +1,4 @@
-#Competitive Coding Roadmap#
+# Competitive Coding Roadmap #
 Whether you are a high schooler, a university student, or a careered developer, this is the perfect time to start with competitive programming. Yeah, you heard it right! Competitive programming does not have age-barrier or portfolio limitations. Competitive Programming only requires a passionate spirit with some love for coding.
 
 A Complete Roadmap to Competitive Programming

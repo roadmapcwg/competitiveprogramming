@@ -50,4 +50,4 @@ You can do competitive programming in any programming language – C/C++, Java, 
 
 Choose a powerful code editor
 
-You will be working to solve many problems. To increase the speed and efficiency of your work, it is recommended that you write your code in a code editor. VS Code, Sublime Text 3, Pharm & Vim are some of the popular editors where you can use their cool features and practice your craft. Use STL, snippets
+You will be working to solve many problems. To increase the speed and efficiency of your work, it is recommended that you write your code in a code editor. VS Code, Sublime Text 3, Pharm & Vim are some of the popular editors where you can use their cool features and practice your craft. Use STL, snippets[Read More..](https://codewithgeeks.com/competitive-programming-roadmap/)
